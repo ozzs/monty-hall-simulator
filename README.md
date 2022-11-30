@@ -10,12 +10,12 @@
 <br />
 
 <p align="center">
-  <a href="overview">Overview</a> •
-  <a href="key-features">Key Features</a> •
-  <a href="tech">Tech</a> •
-  <a href="installation">Installation</a> •
-  <a href="usage">Usage</a> •
-  <a href="#-resources">Resources</a>
+  <a href="#overview">Overview</a> •
+  <a href="#key-features">Key Features</a> •
+  <a href="#tech">Tech</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#resources">Resources</a>
 </p>
 
 Don't forget to star us — it motivates us a lot! ⭐
